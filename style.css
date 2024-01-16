@@ -1,0 +1,35 @@
+body{
+     background-color:  rgb(95, 131, 229);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 80vh;
+}
+.container{
+ background-color: #fff;
+ text-align: center;
+ padding: 30px;
+ border-radius: 5px;
+ box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+ width: 100%;
+ max-width: 30%;
+}
+.icon{
+   font-size: 90px;
+   color: #e11919;
+   display: block;
+   margin:auto;
+}
+ button {
+    background-color: rgb(95, 131, 229);
+    color:white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
